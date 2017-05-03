@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "479920739069",
+    "firebase_url": "https://pp-monitor.firebaseio.com",
+    "project_id": "pp-monitor",
+    "storage_bucket": "pp-monitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479920739069:android:1777e8a079e04fbe",
+        "android_client_info": {
+          "package_name": "iha_au.ppmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479920739069-in7tr2od98hbekkuikct3bm71bgdl3oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiezUWkYmgaqmOffsDuXiWxoI5RPM4bL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
